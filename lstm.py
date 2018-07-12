@@ -66,6 +66,6 @@ plt.title('Google Stock price Predication ')
 plt.xlabel('Time')
 plt.ylabel('Google Stock Price')
 plt.legend()
-plt.show()
+plt.show(
 
 
